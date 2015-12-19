@@ -1,5 +1,7 @@
 # Media Player Classic - Home Cinema
 
+[![Join the chat at https://gitter.im/shd88/mpc-hc](https://badges.gitter.im/shd88/mpc-hc.svg)](https://gitter.im/shd88/mpc-hc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![GitHub Tag](https://img.shields.io/github/tag/mpc-hc/mpc-hc.svg?label=version)](https://github.com/mpc-hc/mpc-hc)
 [![Coverity Scan Build Status](https://img.shields.io/coverity/scan/259.svg)](https://scan.coverity.com/projects/259)
 
